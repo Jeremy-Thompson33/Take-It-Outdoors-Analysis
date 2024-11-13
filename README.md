@@ -19,4 +19,4 @@ I used Python inside of Google Colab to conduct this data analysis project. Libr
 
 
 ##### Note
-This repository is meant to showcase this project and my ability to conduct basic data analysis in Python.
+###### This repository is meant to showcase this project and my ability to conduct basic data analysis in Python.
